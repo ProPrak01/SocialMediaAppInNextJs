@@ -19,7 +19,7 @@ const ForgotPassword = () => {
     try {
       setLoading(true);
       const { data } = await axios.post(
-        `http://localhost:8383/api/forgot-password`,
+        `${process.env.NEXT_PUBLIC_API}/forgot-password`,
         {
           email,
           newPassword,
