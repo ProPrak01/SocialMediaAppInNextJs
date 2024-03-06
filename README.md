@@ -17,3 +17,6 @@ CLOUDINARY_SECRET =
 ## create a .env.local file in client
 .env.local->
 NEXT_PUBLIC_API = http://localhost:8383/api
+
+## Preview->
+![](images/1.png)
