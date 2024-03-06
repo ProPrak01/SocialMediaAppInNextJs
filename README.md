@@ -1,4 +1,4 @@
-##.env requirements-> 
+## .env requirements-> 
 .env ->
 MONGODB_URI = 
 PORT = 8383
