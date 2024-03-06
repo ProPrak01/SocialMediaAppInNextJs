@@ -20,3 +20,6 @@ NEXT_PUBLIC_API = http://localhost:8383/api
 
 ## Preview->
 ![](images/1.png)
+![](images/2.png)
+![](images/3.png)
+
